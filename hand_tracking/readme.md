@@ -1,6 +1,6 @@
 mediapipe based hand tracker
 
-First download the model from this site: https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker
+First download the model (hand_landmarker.task) from this site: https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker
 
 ### Standard Libraries
 | Library   | Submodules |
