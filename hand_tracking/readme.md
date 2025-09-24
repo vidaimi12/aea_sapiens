@@ -21,7 +21,8 @@ First download the model from this site: https://ai.google.dev/edge/mediapipe/so
 | `mediapipe` | `tasks`, `tasks.python`, `tasks.python.vision` |
 | `numpy` | – |
 
-On start the code asks you to select a camera, and a location to save the output csv
+# How to use:
+First code asks you to select a camera, and a location to save the output csv
 that is in this format:
 ---
 
