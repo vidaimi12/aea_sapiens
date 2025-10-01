@@ -1,5 +1,7 @@
 # Mediapipe based Hand Tracker
 
+<img width="1072" height="680" alt="Screenshot 2025-09-24 at 19 26 04" src="https://github.com/user-attachments/assets/338da146-50cc-43fa-9625-18fe826e03f2" />
+
 First download the model (hand_landmarker.task) from this site: https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker
 
 ### Standard Libraries
