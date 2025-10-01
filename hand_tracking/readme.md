@@ -1,4 +1,4 @@
-# mediapipe based hand tracker
+# Mediapipe based Hand Tracker
 
 First download the model (hand_landmarker.task) from this site: https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker
 
