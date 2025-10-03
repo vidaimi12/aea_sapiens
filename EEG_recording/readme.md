@@ -10,3 +10,4 @@ Click on "Start Data Stream" to start recording the EEG. The **raw data** with t
 ![e9e683fa-4bef-46dd-9721-d88e4863f9e9](https://github.com/user-attachments/assets/3d8c6674-904b-45da-be1a-89b460d46588)
 
 From the GUI you can display different widgets, "Cyton signal" is particularly useful if you want to test the correct positioning of the headset. 
+For further information, read the official documentation on OpenBCI website.
